@@ -12,5 +12,5 @@ static const char *colors[SchemeLast][2] = {
 	[SchemeOut]  = { "#000000", "#00ffff" },
 };
 static unsigned int lines      = 0;
-static unsigned int lineheight = 14;
+static unsigned int lineheight = 20;
 static const char worddelimiters[] = " ";
